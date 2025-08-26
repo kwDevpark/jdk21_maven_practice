@@ -8,11 +8,6 @@
     <artifactId>jdk21_maven_practice</artifactId>
     <version>1.0.2</version>
 
-    <name>Jdk21 practice App</name>
-    <description>
-        해당 jar 파일은 jdk21 연습을 위해 만들어진 jar 파일입니다.
-    </description>
-
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
