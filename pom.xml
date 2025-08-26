@@ -8,6 +8,11 @@
     <artifactId>jdk21_maven_practice</artifactId>
     <version>1.0.1</version>
 
+    <name>Jdk21 practice App</name>
+    <description>
+        해당 jar 파일은 jdk21 연습을 위해 만들어진 jar 파일입니다.
+    </description>
+
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
@@ -43,7 +48,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.36</version>
+            <version>1.18.38</version>
         </dependency>
 
         <!-- JUnit 5 -->
